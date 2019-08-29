@@ -1,0 +1,80 @@
+
+      input[type=text]
+      {
+            width: 80%;
+            padding: 12px 20px;
+            margin: 8px ;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+            justify-content: space-between;
+        }
+        
+        input[type=submit]{
+            width: 77px;
+            background-color: rgb(34, 19, 18);
+            color: rgb(219, 229, 235);
+            padding: 14px 20px;
+            border: none;
+            border-radius: 4px;
+           
+
+         }
+        
+        .form{
+            box-sizing: border-box;
+            border-radius: 5px;
+            background-color: #dadabf;
+            padding: 30px;
+            width: 45%;
+            margin: 0 auto;
+            
+        } 
+            .feedback{
+                text-align: center;
+                color: #333;
+                font-family: Helvetica, Arial, sans-serif;
+                padding-bottom: 30px;
+                padding-top: 96px;
+             }
+
+        .paragraph{
+                color: #666;
+                text-align: justify;
+                padding: 0.7em;
+                width: 40%;
+                margin-bottom: 50px;
+                margin-left:6%;
+                margin-top: -300px;
+                font-family: Helvetica, Arial, sans-serif;
+                
+            }
+         h3{
+            margin-top: 55px;
+        }   
+    
+        .aside{
+            
+                margin: 12px;
+                background: #c5c1bf;
+                height: 45%;
+                width: 40%;
+                padding: 30px;
+                margin-left:6%;
+                font-size: 20px!important;
+                color: rgb(18, 24, 29);
+                line-height: 1.2;
+                border-radius: 5px;            
+            }
+        .aside h2{
+                margin-top: -5px;
+            }
+            .aside ul{
+                margin-top: 1px;
+            }
+
+        
+span{
+display: flex; justify-content: space-between; align-items: baseline;
+}
+    
